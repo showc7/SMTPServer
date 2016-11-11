@@ -1,0 +1,6 @@
+D:\projects\git\SMTPServer\SMTPServer\bin\Debug\SMTPServer.exe.config
+D:\projects\git\SMTPServer\SMTPServer\bin\Debug\SMTPServer.exe
+D:\projects\git\SMTPServer\SMTPServer\bin\Debug\SMTPServer.pdb
+D:\projects\git\SMTPServer\SMTPServer\obj\Debug\SMTPServer.csprojResolveAssemblyReference.cache
+D:\projects\git\SMTPServer\SMTPServer\obj\Debug\SMTPServer.exe
+D:\projects\git\SMTPServer\SMTPServer\obj\Debug\SMTPServer.pdb
